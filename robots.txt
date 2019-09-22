@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eereijuegh.michaelpardo.com/sitemap.xml
